@@ -1,0 +1,8 @@
+/.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.log
+*.pdb
+/x64
